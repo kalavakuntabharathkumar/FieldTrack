@@ -1,0 +1,1 @@
+{"expo":{"name":"FieldTrack","slug":"fieldtrack-offline-sales","version":"1.0.0","scheme":"fieldtrack","orientation":"portrait","userInterfaceStyle":"light","newArchEnabled":true,"plugins":["expo-router","expo-sqlite","expo-notifications"],"experiments":{"typedRoutes":true},"android":{"package":"com.portfolio.fieldtrack"},"ios":{"bundleIdentifier":"com.portfolio.fieldtrack"}}}

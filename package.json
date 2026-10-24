@@ -1,0 +1,10 @@
+{
+  "name":"fieldtrack-offline-sales",
+  "version":"1.0.0",
+  "private":true,
+  "main":"expo-router/entry",
+  "scripts":{"start":"expo start","android":"expo start --android","ios":"expo start --ios","web":"expo start --web","test":"jest"},
+  "dependencies":{"@reduxjs/toolkit":"^2.5.0","expo":"~52.0.25","expo-constants":"~17.0.8","expo-notifications":"~0.29.14","expo-sqlite":"~15.1.2","expo-status-bar":"~2.0.1","expo-router":"~4.0.17","react":"18.3.1","react-native":"0.76.6","react-redux":"^9.2.0","@react-native-async-storage/async-storage":"^2.1.0","@sentry/react-native":"^6.10.0","firebase":"^11.2.0"},
+  "devDependencies":{"@babel/core":"^7.25.2","@types/jest":"^29.5.14","@types/react":"~18.3.12","jest":"^29.7.0","jest-expo":"~52.0.6","typescript":"~5.3.3"},
+  "jest":{"preset":"jest-expo","testMatch":["**/__tests__/**/*.test.ts"]}
+}
